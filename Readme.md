@@ -1,4 +1,7 @@
 
+[image0]: ./writeup_images/lane_detection.gif "Undistorted"
+
+![alt text][image0]
 #### Demonstration video available at: https://www.youtube.com/watch?v=H8YNSh2o6rw
 images files in `camera_cal` folder are for the calibration of camera --the first step of lane detection.
 
